@@ -1,0 +1,79 @@
+symptom_1,symptom_2,symptom_3,duration_days,severity,age_group,condition,triage_level
+dizziness,lightheaded,blurred vision,3,moderate,child,Vertigo,Non-Urgent
+fever,chills,muscle ache,7,moderate,child,Influenza,Urgent
+dizziness,lightheaded,blurred vision,3,moderate,adult,Vertigo,Non-Urgent
+headache,nausea,light sensitivity,9,severe,elderly,Migraine,Non-Urgent
+headache,nausea,light sensitivity,9,mild,adult,Migraine,Non-Urgent
+shortness of breath,chronic cough,wheezing,3,mild,elderly,COPD,Emergency
+back pain,numbness,leg pain,9,moderate,adult,Herniated Disc,Non-Urgent
+fever,chills,muscle ache,6,mild,adult,Influenza,Urgent
+cough,mucus,chest tightness,1,mild,adult,Bronchitis,Non-Urgent
+sore throat,fever,swollen glands,9,moderate,adult,Tonsillitis,Urgent
+rash,fever,itching,11,severe,adult,Chickenpox,Non-Urgent
+nausea,vomiting,stomach pain,8,severe,adult,Gastroenteritis,Non-Urgent
+abdominal pain,bloating,diarrhea,12,moderate,elderly,Irritable Bowel,Non-Urgent
+nausea,vomiting,diarrhea,8,mild,adult,Food Poisoning,Non-Urgent
+fatigue,muscle ache,joint pain,4,mild,elderly,Chronic Fatigue,Non-Urgent
+abdominal pain,nausea,fever,11,mild,child,Appendicitis,Emergency
+back pain,numbness,leg pain,7,mild,adult,Herniated Disc,Non-Urgent
+dizziness,nausea,hearing loss,7,moderate,adult,Labyrinthitis,Non-Urgent
+headache,nausea,light sensitivity,3,mild,elderly,Migraine,Non-Urgent
+chest pain,sweating,jaw pain,6,mild,elderly,Heart Attack,Emergency
+dizziness,lightheaded,blurred vision,7,mild,adult,Vertigo,Non-Urgent
+joint pain,swelling,stiffness,13,moderate,adult,Arthritis,Non-Urgent
+sore throat,fever,swollen glands,2,severe,adult,Tonsillitis,Urgent
+fatigue,weakness,shortness of breath,2,moderate,child,Anemia,Non-Urgent
+joint pain,swelling,stiffness,13,mild,adult,Arthritis,Non-Urgent
+cough,runny nose,sneezing,1,mild,adult,Common Cold,Non-Urgent
+abdominal pain,nausea,fever,9,mild,adult,Appendicitis,Emergency
+chest pain,sweating,shortness of breath,13,severe,child,Angina,Urgent
+cough,mucus,chest tightness,11,mild,adult,Bronchitis,Non-Urgent
+chest pain,sweating,jaw pain,12,mild,adult,Heart Attack,Emergency
+sore throat,swollen glands,difficulty swallowing,3,moderate,child,Strep Throat,Non-Urgent
+abdominal pain,bloating,diarrhea,3,severe,adult,Irritable Bowel,Non-Urgent
+chest pain,sweating,shortness of breath,9,mild,child,Angina,Urgent
+back pain,leg pain,numbness,10,mild,adult,Sciatica,Urgent
+fatigue,muscle ache,joint pain,10,moderate,adult,Chronic Fatigue,Non-Urgent
+joint pain,morning stiffness,swelling,3,mild,child,Rheumatoid Arthritis,Urgent
+shortness of breath,wheezing,chest tightness,13,mild,elderly,Asthma,Emergency
+nausea,vomiting,diarrhea,2,moderate,child,Food Poisoning,Non-Urgent
+cough,runny nose,sneezing,9,mild,adult,Common Cold,Non-Urgent
+nausea,vomiting,diarrhea,1,moderate,adult,Food Poisoning,Non-Urgent
+fever,chills,muscle ache,5,moderate,adult,Influenza,Urgent
+cough,runny nose,sneezing,2,moderate,adult,Common Cold,Non-Urgent
+rash,itching,peeling skin,4,severe,adult,Dermatitis,Non-Urgent
+headache,nausea,light sensitivity,10,mild,elderly,Migraine,Non-Urgent
+rash,fever,itching,9,mild,child,Chickenpox,Non-Urgent
+chest pain,sweating,jaw pain,1,mild,adult,Heart Attack,Emergency
+rash,itching,peeling skin,10,mild,child,Dermatitis,Non-Urgent
+shortness of breath,chronic cough,wheezing,1,moderate,child,COPD,Emergency
+joint pain,morning stiffness,swelling,4,mild,adult,Rheumatoid Arthritis,Urgent
+chest pain,sweating,shortness of breath,9,moderate,child,Angina,Urgent
+shortness of breath,chronic cough,wheezing,8,moderate,adult,COPD,Emergency
+cough,runny nose,sneezing,13,severe,child,Common Cold,Non-Urgent
+sore throat,swollen glands,difficulty swallowing,11,mild,adult,Strep Throat,Non-Urgent
+joint pain,swelling,stiffness,6,severe,adult,Arthritis,Non-Urgent
+shortness of breath,wheezing,chest tightness,8,mild,adult,Asthma,Emergency
+cough,mucus,chest tightness,8,moderate,adult,Bronchitis,Non-Urgent
+shortness of breath,wheezing,chest tightness,12,moderate,child,Asthma,Emergency
+abdominal pain,nausea,fever,12,mild,elderly,Appendicitis,Emergency
+back pain,leg pain,numbness,10,severe,adult,Sciatica,Urgent
+dizziness,nausea,hearing loss,5,moderate,elderly,Labyrinthitis,Non-Urgent
+headache,nausea,light sensitivity,5,moderate,child,Migraine,Non-Urgent
+back pain,numbness,leg pain,3,moderate,adult,Herniated Disc,Non-Urgent
+abdominal pain,bloating,diarrhea,7,mild,adult,Irritable Bowel,Non-Urgent
+dizziness,nausea,hearing loss,11,mild,elderly,Labyrinthitis,Non-Urgent
+joint pain,morning stiffness,swelling,13,severe,adult,Rheumatoid Arthritis,Urgent
+sore throat,fever,swollen glands,9,mild,elderly,Tonsillitis,Urgent
+rash,itching,peeling skin,7,moderate,adult,Dermatitis,Non-Urgent
+sore throat,swollen glands,difficulty swallowing,7,moderate,elderly,Strep Throat,Non-Urgent
+fever,chills,muscle ache,8,moderate,child,Influenza,Urgent
+fatigue,weakness,shortness of breath,10,severe,adult,Anemia,Non-Urgent
+nausea,vomiting,stomach pain,8,moderate,adult,Gastroenteritis,Non-Urgent
+fever,chills,muscle ache,3,mild,adult,Influenza,Urgent
+nausea,vomiting,stomach pain,5,moderate,elderly,Gastroenteritis,Non-Urgent
+fatigue,muscle ache,joint pain,4,moderate,elderly,Chronic Fatigue,Non-Urgent
+rash,fever,itching,5,moderate,adult,Chickenpox,Non-Urgent
+back pain,leg pain,numbness,1,mild,child,Sciatica,Urgent
+cough,runny nose,sneezing,12,moderate,child,Common Cold,Non-Urgent
+fatigue,weakness,shortness of breath,9,moderate,child,Anemia,Non-Urgent
